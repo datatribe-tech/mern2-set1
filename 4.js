@@ -28,4 +28,4 @@ const students = [
 ];
 
 
-// output : {passed:[...],failed:[....}
+// output : {passed:[...],failed:[....]}
