@@ -26,3 +26,6 @@ const students = [
   { name: "Gokul", passed: true },
   { name: "Varsha", passed: false }
 ];
+
+
+// output : {passed:[...],failed:[....}
