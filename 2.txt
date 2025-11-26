@@ -1,0 +1,3 @@
+Create a countdown using only html,css,js.
+user should be able to enter a value in seconds and countdown should begin from that number to 0
+handle errors carefully

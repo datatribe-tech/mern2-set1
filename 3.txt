@@ -1,0 +1,1 @@
+create a password strength checker using html css and js only

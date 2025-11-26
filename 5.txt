@@ -1,0 +1,18 @@
+populate the given array in an html page.
+add and input box, as the user type anything in input box, filter data accordingly.
+
+const cities = [
+  "Mumbai", "Delhi", "Bengaluru", "Chennai", "Hyderabad",
+  "Kolkata", "Pune", "Ahmedabad", "Kochi", "Thiruvananthapuram",
+  "Jaipur", "Lucknow", "Indore", "Surat", "Coimbatore",
+  "Mangalore", "Chandigarh", "Visakhapatnam", "Madurai", "Bhopal",
+  
+  "New York", "London", "Tokyo", "Paris", "Dubai", "Singapore",
+  "Sydney", "Toronto", "Berlin", "Barcelona", "Hong Kong",
+  "Los Angeles", "Bangkok", "Moscow", "Istanbul", "Rome",
+  "Seoul", "Amsterdam", "Kuala Lumpur", "Mexico City",
+  
+  "Venice", "Denpasar", "Cape Town", "Rio de Janeiro",
+  "Malé", "Santorini", "Honolulu", "Zurich", "Prague", "Cairo"
+];
+
